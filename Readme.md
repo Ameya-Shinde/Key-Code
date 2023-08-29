@@ -16,4 +16,4 @@ Create a key code logger.
 - element.innerHTML to set the inner body.
 
 # Hosted Link
-https://ameya-shinde.github.io/Basic-Canvas/
+https://ameya-shinde.github.io/Key-Code/
